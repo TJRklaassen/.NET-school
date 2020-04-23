@@ -1,0 +1,16 @@
+C:\Users\tjrkl\source\repos\School\P1_console\bin\Debug\netcoreapp3.1\P1_console.exe
+C:\Users\tjrkl\source\repos\School\P1_console\bin\Debug\netcoreapp3.1\P1_console.deps.json
+C:\Users\tjrkl\source\repos\School\P1_console\bin\Debug\netcoreapp3.1\P1_console.runtimeconfig.json
+C:\Users\tjrkl\source\repos\School\P1_console\bin\Debug\netcoreapp3.1\P1_console.runtimeconfig.dev.json
+C:\Users\tjrkl\source\repos\School\P1_console\bin\Debug\netcoreapp3.1\P1_console.dll
+C:\Users\tjrkl\source\repos\School\P1_console\bin\Debug\netcoreapp3.1\P1_console.pdb
+C:\Users\tjrkl\source\repos\School\P1_console\bin\Debug\netcoreapp3.1\P1_library.dll
+C:\Users\tjrkl\source\repos\School\P1_console\bin\Debug\netcoreapp3.1\P1_library.pdb
+C:\Users\tjrkl\source\repos\School\P1_console\obj\Debug\netcoreapp3.1\P1_console.csprojAssemblyReference.cache
+C:\Users\tjrkl\source\repos\School\P1_console\obj\Debug\netcoreapp3.1\P1_console.csproj.CoreCompileInputs.cache
+C:\Users\tjrkl\source\repos\School\P1_console\obj\Debug\netcoreapp3.1\P1_console.AssemblyInfoInputs.cache
+C:\Users\tjrkl\source\repos\School\P1_console\obj\Debug\netcoreapp3.1\P1_console.AssemblyInfo.cs
+C:\Users\tjrkl\source\repos\School\P1_console\obj\Debug\netcoreapp3.1\P1_console.csproj.CopyComplete
+C:\Users\tjrkl\source\repos\School\P1_console\obj\Debug\netcoreapp3.1\P1_console.dll
+C:\Users\tjrkl\source\repos\School\P1_console\obj\Debug\netcoreapp3.1\P1_console.pdb
+C:\Users\tjrkl\source\repos\School\P1_console\obj\Debug\netcoreapp3.1\P1_console.genruntimeconfig.cache
