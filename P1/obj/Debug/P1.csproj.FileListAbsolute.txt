@@ -1,0 +1,10 @@
+C:\Users\tjrkl\source\repos\School\P1\bin\Debug\P1.exe.config
+C:\Users\tjrkl\source\repos\School\P1\bin\Debug\P1.exe
+C:\Users\tjrkl\source\repos\School\P1\bin\Debug\P1.pdb
+C:\Users\tjrkl\source\repos\School\P1\obj\Debug\P1.csprojAssemblyReference.cache
+C:\Users\tjrkl\source\repos\School\P1\obj\Debug\P1.Form1.resources
+C:\Users\tjrkl\source\repos\School\P1\obj\Debug\P1.Properties.Resources.resources
+C:\Users\tjrkl\source\repos\School\P1\obj\Debug\P1.csproj.GenerateResource.cache
+C:\Users\tjrkl\source\repos\School\P1\obj\Debug\P1.csproj.CoreCompileInputs.cache
+C:\Users\tjrkl\source\repos\School\P1\obj\Debug\P1.exe
+C:\Users\tjrkl\source\repos\School\P1\obj\Debug\P1.pdb
